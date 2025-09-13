@@ -1,6 +1,13 @@
 # Exercises
 ## Week 1
 ### Done
-- Exercises 1
-- Exercises 2
-- Exercises 3
+- Exercise 1
+- Exercise 2
+- Exercise 3
+
+## Week 2
+### Done
+- Exercise 1
+- Exercise 2
+- Exercise 3
+- Exercise 4
