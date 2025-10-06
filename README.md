@@ -23,3 +23,15 @@
 
 - Exercise 1
 - Exercise 2
+
+## Week 4
+
+### Done
+
+- Exercise 1
+
+## Week 5
+
+### Done partially
+
+- Exercise 2
